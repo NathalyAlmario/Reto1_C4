@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"Reto1_C4.Reto1","l":"Reto1Application"},{"p":"Reto1_C4.Reto1","l":"User"},{"p":"Reto1_C4.Reto1","l":"UserController"},{"p":"Reto1_C4.Reto1","l":"UserCrudRepository"},{"p":"Reto1_C4.Reto1","l":"UserRepository"},{"p":"Reto1_C4.Reto1","l":"UserService"}]

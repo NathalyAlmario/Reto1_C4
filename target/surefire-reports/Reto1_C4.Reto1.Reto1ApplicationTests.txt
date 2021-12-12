@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Reto1_C4.Reto1.Reto1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.959 s - in Reto1_C4.Reto1.Reto1ApplicationTests
