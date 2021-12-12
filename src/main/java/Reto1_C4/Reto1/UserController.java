@@ -57,7 +57,7 @@ public class UserController {
      * @param user datos del uusuario 
      * @return retorna el usuario reguistrado
      */
-    @PostMapping("/all")
+    @PostMapping("/new")
     @ResponseStatus(HttpStatus.CREATED)
     public User registrar(@RequestBody User user) {
         return userService.registrar(user);
